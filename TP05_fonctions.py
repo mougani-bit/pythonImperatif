@@ -1,4 +1,5 @@
-# EX01_SOMME_NB_PAIRS
+# EX01_SOMME_NB_PAIR
+
 
 def somme_nombres_pairs(liste):
     somme = 0
@@ -46,3 +47,7 @@ liste_notes = [85, 90, 78, 92, 88]
 moyenne = calcul_moyenne(liste_notes)
 
 print(f"La moyenne des éléments dans la liste est : {moyenne}")
+
+
+
+
